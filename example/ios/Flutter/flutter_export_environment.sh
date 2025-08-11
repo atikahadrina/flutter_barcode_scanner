@@ -1,13 +1,13 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/apple/Documents/Sdk/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/apple/Documents/Atikah/Projects/FlutterBarcodeScanner/example"
+export "FLUTTER_ROOT=/Users/apple/fvm/versions/3.29.1"
+export "FLUTTER_APPLICATION_PATH=/Users/apple/Documents/Atikah/Projects/flutter_barcode_scanner/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib/main.dart"
+export "FLUTTER_TARGET=/Users/apple/Documents/Atikah/Projects/flutter_barcode_scanner/example/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=2.0.0.0"
 export "FLUTTER_BUILD_NUMBER=2.0.0.0"
 export "DART_OBFUSCATION=false"
 export "TRACK_WIDGET_CREATION=true"
 export "TREE_SHAKE_ICONS=false"
-export "PACKAGE_CONFIG=.dart_tool/package_config.json"
+export "PACKAGE_CONFIG=/Users/apple/Documents/Atikah/Projects/flutter_barcode_scanner/example/.dart_tool/package_config.json"
